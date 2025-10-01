@@ -24,4 +24,5 @@
 ## Achievements
 * 2nd Place - Mechanical Project 3.0 (2021)
 * 2nd Place - HIMNATION, 3rd Place - National Essay Competition (NESCO) (2021)
+
 * 1st Runner-Up - Interdisciplinary Scientific Competition for Nation Development (ISCOOL) (2021)
